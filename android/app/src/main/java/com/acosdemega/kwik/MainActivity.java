@@ -1,0 +1,6 @@
+package com.acosdemega.kwik;
+
+import io.flutter.embedding.android.FlutterActivity;
+
+public class MainActivity extends FlutterActivity {
+}
